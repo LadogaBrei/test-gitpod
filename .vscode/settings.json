@@ -15,5 +15,8 @@
         "**/__pycache__/**",
         "**/.mypy_cache/**",
         ".venv"
-    ]    
+    ],
+    "robotcode.robot.variables": {
+        "A_EXTERNAL_VARIABLE": "external value"
+    }
 }
